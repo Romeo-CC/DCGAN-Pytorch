@@ -23,6 +23,8 @@ python preparedata.py
 python train.py
 ```
 ![epoch35](asset/epoch_35_iter_1582.png)
+the generated result trained 35 epochs 
+
 ## Generate
 
 ```
