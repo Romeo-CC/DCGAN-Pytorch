@@ -1,0 +1,9 @@
+{
+    "batch_size": 128,
+    "learning_rate": 0.0002,
+    "beta1": 0.5,
+    "ngpu": 1,
+    "available_gpus": [0],
+    "num_epochs": 100,
+    "workers": 2
+}
