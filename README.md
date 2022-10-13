@@ -7,9 +7,6 @@ Great Thanks to Lilian's Work [From GAN to WGAN](https://arxiv.org/abs/1904.0899
 
 ![dcgan](./asset/DCGAN.png)
 
-##
-
-
 
 ## Prepare Data
 + download celeba_aligned data [here]() and extract
