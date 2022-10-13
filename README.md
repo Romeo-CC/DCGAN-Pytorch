@@ -13,7 +13,7 @@ Great Thanks to Lilian's Work [From GAN to WGAN](https://arxiv.org/abs/1904.0899
 + prepare training data using **LMDB**, ***which save your DISK.***
 ```sh
 # modify the path to where you extract the data in the preparedata.py file.
-python preparedata.py
+python prepare_data.py
 ```
 
 ## Train
