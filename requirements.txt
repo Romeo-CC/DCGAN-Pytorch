@@ -1,9 +1,9 @@
 torch==1.12.1
 torchvision==0.13.1
-opencv-python==0.13.1
-numpy==0.13.1
-lmdb==0.13.1
-Pillow==0.13.1
-matplotlib==0.13.1
-tqdm==0.13.1
+opencv-python==4.6.0.66
+numpy==1.21.5
+lmdb==1.3.0
+Pillow==9.2.0
+matplotlib==3.5.2
+tqdm==4.64.1
 tensorboard==2.10.1
