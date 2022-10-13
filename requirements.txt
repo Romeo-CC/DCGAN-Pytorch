@@ -1,0 +1,9 @@
+torch==1.12.1
+torchvision==0.13.1
+opencv-python==0.13.1
+numpy==0.13.1
+lmdb==0.13.1
+Pillow==0.13.1
+matplotlib==0.13.1
+tqdm==0.13.1
+tensorboard==2.10.1
